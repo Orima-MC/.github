@@ -2,7 +2,7 @@
 
 # Official page related to the development of OrimaMC
 This place is an important point for this project, it is here that our development related to our platform will be recorded.
-You can also find our opensource projects
+You can also find our opensource projects.
 
 # Our technologies
 ![JavaScript](https://img.shields.io/badge/Javascript-yellow?logo=javascript&style=for-the-badge&logoColor=white) </br>
