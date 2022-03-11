@@ -7,4 +7,5 @@ You can also find our opensource projects
 # Our technologies
 ![JavaScript](https://img.shields.io/badge/Javascript-yellow?logo=javascript&style=for-the-badge&logoColor=white) </br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</br>
-![Docker](https://img.shields.io/badge/Docker-lightgrey?logo=docker&style=for-the-badge&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-lightgrey?logo=docker&style=for-the-badge&logoColor=white) </br>
+![Bash](https://img.shields.io/badge/Bash-green?logo=GNU%20Bash&style=for-the-badge&logoColor=white)
